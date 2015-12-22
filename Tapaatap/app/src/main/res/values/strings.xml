@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tapaatap</string>
+
+    <string name="button_start">सुरु करा</string>
+    <string name="swarachakra">स्वरचक्र्</string>
+    <string name="swiftkey">स्विफ्ट की </string>
+    <string name="sparsh">स्पर्श</string>
+    <string name="cdac">सी-डाक</string>
+    <string name="panini">पाणिनी</string>
+    <string name="google">गुगल</string>
+</resources>
